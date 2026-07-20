@@ -1,3 +1,3 @@
 # demo-repo
-Author-Om Mhatre
+Author-Om Mhatre <br>
 Creator-Om Mhatre
